@@ -1,3 +1,8 @@
+Esse repositório representa o andamento da minha leitura do livro "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de Aurélien Géron.
+Em cada um dos notebooks constam apenas os códigos e as **minhas respostas** para os exercícios.
+- **Todos os direitos** pertencem a Aurélien Géron e a editora O'Reilly Media, Inc.
+
+O livro se divide em duas partes que, por sua vez, se desdobram em diferentes capítulos, conforme assinalados embaixo:
 # Part 1 "The Fundamentals of Machine Learning"
 - What machine learning is, what problems it tries to solve, and the main categories and fundamental concepts of its systems
 - The steps in a typical machine learning project
@@ -19,3 +24,7 @@
 - How to build an agent (e.g., a bot in a game) that can learn good strategies through trial and error, using reinforcement learning
 - Loading and preprocessing large amounts of data efficiently
 - Training and deploying TensorFlow models at scale
+
+Tenho dois objetivos com a leitura desse livros:
+1. Melhorar minhas habilidades com Machine Learning;
+2. Realizar a certificação de Tensorflow.
