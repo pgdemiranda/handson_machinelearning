@@ -1,5 +1,5 @@
 Esse repositório representa o andamento da minha leitura do livro "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de Aurélien Géron.
-Em cada um dos notebooks constam apenas os códigos e as **minhas respostas** para os exercícios.
+Em cada um dos notebooks constam apenas os códigos e as **minhas respostas** para os exercícios. Minhas próprias anotações são privadas e não constam aqui para não quebrar qualquer "fair use" da obra.
 - **Todos os direitos** pertencem a Aurélien Géron e a editora O'Reilly Media, Inc.
 
 O livro se divide em duas partes que, por sua vez, se desdobram em diferentes capítulos, conforme assinalados embaixo:
